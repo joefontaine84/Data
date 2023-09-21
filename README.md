@@ -25,5 +25,5 @@ Said information in the Product will be displayed in a dashboard-like format.
 (1) The CSV file provided in this repository was published by PRATHAM TRIPATHI on Kaggle.com (https://www.kaggle.com/datasets/prathamtripathi/drug-classification)
 <br>
 <br>
-(2) <b>Reference the "User Guide" to ensure the user-interface portion of the machine learning model works appropriately. The GUI may fail to load on other platforms outside of Jupyter Notebook</b>
+(2) <b>Reference the "User Guide" to ensure the user-interface portion of the machine learning model works appropriately. The GUI may fail to load on other platforms outside of Jupyter Notebook.</b>
 </p>
