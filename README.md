@@ -1,5 +1,3 @@
-# Data
-This repository is to host a single CSV file, published by PRATHAM TRIPATHI on Kaggle.com
 <h1>Machine Learning + Data Visualization Product</h1>
 
 <h2>High-level Overview</h2>
@@ -20,5 +18,8 @@ Said information in the Product will be displayed in a dashboard-like format.
 <br>
 <br>
 <br>
-<i>*Note that this is written as if an internal developer is describing a problem and solution to their CEO*</i>
+<i>\*Note that this is written as if an internal developer is describing a problem and solution to their CEO. This is a fictional situation in general.*</i>
+<br>
+<br>
+Note that the CSV file provided in this repository was published by PRATHAM TRIPATHI on Kaggle.com (https://www.kaggle.com/datasets/prathamtripathi/drug-classification)
 </p>
