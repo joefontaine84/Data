@@ -21,5 +21,9 @@ Said information in the Product will be displayed in a dashboard-like format.
 <i>\*Note that this is written as if an internal developer is describing a problem and solution to their CEO. This is a fictional situation in general.*</i>
 <br>
 <br>
-Note that the CSV file provided in this repository was published by PRATHAM TRIPATHI on Kaggle.com (https://www.kaggle.com/datasets/prathamtripathi/drug-classification)
+<h2>Notes</h2>
+(1) The CSV file provided in this repository was published by PRATHAM TRIPATHI on Kaggle.com (https://www.kaggle.com/datasets/prathamtripathi/drug-classification)
+<br>
+<br>
+(2) <b>Reference the "User Guide" to ensure the user-interface portion of the machine learning model works appropriately. The GUI may fail to load on other platforms outside of Jupyter Notebook</b>
 </p>
